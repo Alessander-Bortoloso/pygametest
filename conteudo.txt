@@ -1,0 +1,4 @@
+Como criar animações usando spritesheet - pygame
+Como criar animações usando sprites separadas - pygame
+Como criar movimentação de personagem - pygame
+Como criar mapa - pygame
